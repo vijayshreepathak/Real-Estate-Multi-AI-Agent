@@ -159,7 +159,7 @@ MIT License – see the [LICENSE](LICENSE) file for full terms.
 
 **Vijayshree Vaibhav**  
 🌐 GitHub: [@vijayshreepathak](https://github.com/vijayshreepathak)  
-📫 Email: support@realestatexxxx-ai.com
+📫 Email: vijayshree9646@gmail.com
 
 ---
 
