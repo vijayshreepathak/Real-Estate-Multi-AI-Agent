@@ -2,8 +2,6 @@
 
 Welcome to **Real Estate Multi-AI Agent** — a powerful, multi-agent AI assistant built to simplify property management and support tenants, owners, and real estate professionals with intelligent, real-time insights. 🧠🏘️⚖️
 
-![Real Estate Multi AI Agent Properties](https://via.placeholder.com/800x400?text=Real+Estate+Multi+AI+Agent+Properties)
-
 ---
 
 ## ✨ What Can It Do?
